@@ -1,0 +1,105 @@
+{
+    "items":[
+        {
+            "serialno":"3",
+            "name":"Rice",
+            "quanity":"10",
+            "unit":"kg",
+            "department":"Rice",
+            "notes":"Brown rice"
+        },
+        {
+            "serialno":"2",
+            "name":"Milk",
+            "quanity":"2",
+            "unit":"L",
+            "department":"Diary",
+            "notes":"milama milk(yellow)"  
+        },
+        {
+            
+            "serialno":"1",
+            "name":"Bread",
+            "quanity":"500",
+            "unit":"g",
+            "department":"packaged foods",
+            "notes":"brown/white bread"
+        },
+        {
+            "serialno":"4",
+            "name":"Egg",
+            "quanity":"1",
+            "unit":"dozzen",
+            "department":"Diary",
+            "notes":"white"
+        },
+        {
+            "serialno":"5",
+            "name":"Yogurt",
+            "quanity":"90",
+            "unit":"g",
+            "department":"Diary",
+            "notes":"epigamia greek strawberry"
+        },
+        {
+            "serialno":"6",
+            "name":"Chicken",
+            "quanity":"2",
+            "unit":"kg",
+            "department":"Meat",
+            "notes":"fresh chicken"
+        },
+        {
+            "serialno":"7",
+            "name":"Banana",
+            "quanity":"1.5",
+            "unit":"kg",
+            "department":"Fruits",
+            "notes":"red/yellow"
+        },
+        {
+            "serialno":"7",
+            "name":"Sugar",
+            "quanity":"3",
+            "unit":"kg",
+            "department":"packaged foods",
+            "notes":"brown"
+        },
+        {
+            "serialno":"8",
+            "name":"Wheat flour",
+            "quanity":"5",
+            "unit":"kg",
+            "department":"Packged foods",
+            "notes":"pure wheat flour"
+        },
+        {
+            "serialno":"9",
+            "name":"Carrot",
+            "quanity":"1",
+            "unit":"kg",
+            "department":"Vegetables",
+            "notes":"fresh "
+        },
+        {
+            "serialno":"10",
+            "name":"Coffee powder",
+            "quanity":"500",
+            "unit":"g",
+            "department":"packaged foods",
+            "notes":"Nescafe"
+        },
+        {
+            "serialno":"11",
+            "name":"Oil",
+            "quanity":"1",
+            "unit":"g",
+            "department":"packaged foods",
+            "notes":"sunflower oil"
+        }
+    
+    
+
+
+    ]
+}
