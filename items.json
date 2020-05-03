@@ -96,6 +96,14 @@
             "unit":"g",
             "department":"packaged foods",
             "notes":"sunflower oil"
+        },
+        {
+            "serialno":"12",
+            "name":"Chocolate",
+            "quanity":"100",
+            "unit":"g",
+            "department":"packaged foods",
+            "notes":"dark chocolate"
         }
     
     
