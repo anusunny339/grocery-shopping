@@ -8,7 +8,7 @@
             console.log(response);
             var Jitems=response.items;
             console.log(Jitems);
-            var output="<table class='table  table-striped table-hover active-animatioon'><tr><th>SERIAL NO</th><th>NAME</th><th>QUANITY</th><th>UNIT</th><th>DEPARTMENT</th><th>NOTE</th></tr>"
+            var output="<table class='table  table-striped table-hover active-animation'><tr><th>SERIAL NO</th><th>NAME</th><th>QUANITY</th><th>UNIT</th><th>DEPARTMENT</th><th>NOTE</th></tr>"
             
             for(var i=0;i<Jitems.length;i++){
             output +="<tr><td>"+Jitems[i].serialno+"</td><td>"+Jitems[i].name+"</td><td>"+Jitems[i].quanity+"</td><td>"+Jitems[i].unit+"</td><td>"+Jitems[i].department+"</td><td>"+Jitems[i].notes+"</td></tr>";
